@@ -9,7 +9,7 @@ import tarfile
 
 def loadData(pathToDatasetFolder, oneHot=False):
     """
-    pathToDatasetFolder: Parent folder of CINIC-10 dataset folder of CINIC-10.tar.gz file
+    pathToDatasetFolder: Parent folder of CINIC-10 dataset folder or CINIC-10.tar.gz file
     oneHot: Label encoding (one hot encoding or not)
 
     Return: Train, validation and test sets and label numpy arrays
