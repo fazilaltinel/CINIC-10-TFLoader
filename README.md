@@ -1,6 +1,6 @@
 # CINIC-10-TFLoader
 
-This repository contains a data loader of "[CINIC-10] (https://github.com/BayesWatch/cinic-10)" dataset for TensorFlow. A training case using TFLearn is given in `residual_network_cinic10.py`.
+This repository contains a data loader of "[CINIC-10](https://github.com/BayesWatch/cinic-10)" dataset for TensorFlow. A training case using TFLearn is given in `residual_network_cinic10.py`.
 
 CINIC-10 data can be loaded with the line below:
 ```
