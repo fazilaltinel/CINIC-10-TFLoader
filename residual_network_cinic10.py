@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """ Deep Residual Network.
+https://github.com/tflearn/tflearn/blob/master/examples/images/residual_network_cifar10.py
 
 Applying a Deep Residual Network to CINIC-10 Dataset classification task.
 
