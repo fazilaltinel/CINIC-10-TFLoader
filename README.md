@@ -7,7 +7,7 @@ CINIC-10 data can be loaded with the line below:
 XTrain, YTrain, XVal, YVal, XTest, YTest = cinic10.loadData("/path/to/dataset/folder", oneHot=True)
 ```
 
-`loadData()` method returns 6 numpy arrays respectively: Training set images, training set labels, validation set images, validation set labels, testing set images, testing set labels.
+`loadData()` method returns 6 numpy arrays: Training set images, training set labels, validation set images, validation set labels, testing set images, testing set labels, respectively.
 
 This script also downloads and extracts dataset files if dataset is not in the specified folder.
 
